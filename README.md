@@ -3,8 +3,11 @@
 
 this program generates html code for a table of letters(5 letters per line).  The table merges together all letters that are the same given they are vertically adjacent for example 
 a b c d e
+
 a b w x y
+
 a x y a w
+
 b b y a w
 
 generates this table 
